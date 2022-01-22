@@ -10,4 +10,4 @@ ipywidgets==7.5.0
 requests-html==0.10.0
 librosa==0.8.1
 ffmpeg==1.4
-sndfile
+sndfile==0.2.0
