@@ -8,6 +8,7 @@ numpy==1.19.5
 ipympl==0.5.8
 ipywidgets==7.5.0
 requests-html==0.10.0
+<<<<<<< HEAD
 
 # pooch==1.5.2
 # libsndfile==1.0.31 
@@ -21,3 +22,6 @@ requests-html==0.10.0
 # librosa==0.8.1
 
 # ffmpeg==4.3.1
+=======
+#quentn
+>>>>>>> dd887bcdf89cef81c4bbd3863fe1b4a0f43fc68d
