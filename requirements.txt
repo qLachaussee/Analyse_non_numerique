@@ -9,10 +9,5 @@ ipympl==0.5.8
 ipywidgets==7.5.0
 requests-html==0.10.0
 
-pooch==1.5.2
-audioread==2.1.9
-pysoundfile
-resampy==0.2.2
-librosa==0.8.1
-
-ffmpeg
+conda install -c conda-forge librosa
+conda install -c conda-forge ffmpeg
