@@ -1,6 +1,7 @@
-# Analyse_non_numerique
+# Projet Analyse Non Numérique
+## Quentin LACHAUSSEE PROMO 2
+### 30/01/2022
 
-Voici mon projet d'Analyse non numérique.
 J'ai essayé de respecter au maximum les consignes.
 
 J'ai créé 2 quentin_lachaussee_App :
